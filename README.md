@@ -1,1 +1,25 @@
-# ADB-Commands
+7 => Key code constant: '0' key
+8 => Key code constant: '1' key
+227 => Key code constant: '11' key
+228 => Key code constant: '12' key
+9 => Key code constant: '2' key
+10 => Key code constant: '3' key
+11 => Key code constant: '4' key
+12 => Key code constant: '5' key
+13 => Key code constant: '6' key
+14 => Key code constant: '7' key
+15 => Key code constant: '8' key
+16 => Key code constant: '9' key
+29 => Key code constant: 'A' key
+4 => Key code constant: Back key.
+220 => Key code constant: Brightness Down key. 
+221 => Key code constant: Brightness up key. 
+66 => Key code constant: Enter key.
+3 => Key code constant: Home key. 
+83 => Key code constant: Notification key.
+318 => Key code constant: To take a screenshot. 
+176 => Key code constant: Settings key. 
+24 => Key code constant: Volume Up key. 
+224 => Key code constant: Wakeup key. 
+
+swip up => adb shell input swipe 500 1500 500 500
